@@ -1,0 +1,27 @@
+html {
+	box-sizing: border-box;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+body {
+	background:url("./volcano.img/volcano.jpg") no-repeat;
+	background-size: ;
+
+}
+
+.clockStyle {
+	margin: 35% 30%;
+	background-color: #000;
+	border:#999 2px inset;
+	padding:6px;
+	color:white;
+	font-family: "Arial Black", "Gadget", sans-serif;
+	font-size: 66px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	display: inline-block;
+
+	;
+}
