@@ -7,13 +7,12 @@ html {
 
 body {
 	background:url("./volcano.img/volcano.jpg") no-repeat;
-	background-size: ;
+	background-size: 100% 100%;
 
 }
 
 .clockStyle {
-	margin: 35% 30%;
-	background-color: #000;
+	margin: 35% 32%;
 	border:#999 2px inset;
 	padding:6px;
 	color:white;
